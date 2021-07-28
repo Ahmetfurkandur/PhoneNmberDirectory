@@ -1,0 +1,53 @@
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.exe.config
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.exe
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.pdb
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\bin\Debug\TelefonRehberi.Bussiness.dll
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\bin\Debug\TelefonRehberi.DataAccess.dll
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\bin\Debug\TelefonRehberi.Entities.dll
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\bin\Debug\TelefonRehberi.Bussiness.pdb
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\bin\Debug\TelefonRehberi.Bussiness.dll.config
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\bin\Debug\TelefonRehberi.DataAccess.pdb
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\bin\Debug\TelefonRehberi.DataAccess.dll.config
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\bin\Debug\TelefonRehberi.Entities.pdb
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\bin\Debug\TelefonRehberi.Entities.dll.config
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.Form1.resources
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.Properties.Resources.resources
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csproj.CopyComplete
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.exe
+C:\Users\lenovo\source\repos\TelefonRehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.pdb
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.exe.config
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.exe
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.pdb
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\TelefonRehberi.Bussiness.dll
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\TelefonRehberi.DataAccess.dll
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\TelefonRehberi.Entities.dll
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\FluentValidation.dll
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\netstandard.dll
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\TelefonRehberi.Bussiness.pdb
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\TelefonRehberi.Bussiness.dll.config
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\TelefonRehberi.DataAccess.pdb
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\TelefonRehberi.DataAccess.dll.config
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\TelefonRehberi.Entities.pdb
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\TelefonRehberi.Entities.dll.config
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\FluentValidation.xml
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.Form1.resources
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.Properties.Resources.resources
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csproj.CopyComplete
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.exe
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.pdb
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\Ninject.dll
+C:\Users\lenovo\Desktop\coding\TelefonRehberi\Telefon Rehberi\bin\Debug\Ninject.xml
