@@ -8,3 +8,4 @@ Kullandığım teknolojler ve mimariler;
 ORM framework; Entity Framework.
 Validation kütüphanesi; Fluent Validation.
 IoC Container; Ninject.
+Mimari; klasik katmanlı mimari.
